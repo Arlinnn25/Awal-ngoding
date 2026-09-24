@@ -15,6 +15,11 @@ data_string = "Arlin baik"
 print("data: ", data_string)
 print("- bertipe : ",type(data_string))
 
+# tipe data : biner true/false (boolean)
+data_bool = True
+print("data: ", data_bool)
+print("- bertipe : ",type(data_bool))
+
 
 ## tipe data khusus
 # bilangan complex
